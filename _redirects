@@ -2,8 +2,8 @@
 https://chantastic.netlify.com/* https://chantastic.org/:splat 301!
 
 # Github pages style links
-/btn.css https://chantastic.github.io/btn.css/ 301
-/point.css https://chantastic.github.io/point.css/ 301
-/minions.css https://chantastic.github.io/minions.css/ 301
-/css4-to-css3 https://chantastic.github.io/css4-to-css3/ 301
+/btn.css https://chantastic.github.io/btn.css 301
+/point.css https://chantastic.github.io/point.css 301
+/minions.css https://chantastic.github.io/minions.css 301
+/css4-to-css3 https://chantastic.github.io/css4-to-css3 301
 /gear/drawing https://chantastic.github.io/gear/drawing 301
