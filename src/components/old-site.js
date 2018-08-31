@@ -193,16 +193,16 @@ export default function() {
 
         <ul style={{ listStyleType: 'none' }}>
           <li>
-            <a href="https://chantastic.org/btn.css">btn.css</a>
+            <a href="https://chantastic.github.io/btn.css">btn.css</a>
           </li>
           <li>
-            <a href="https://chantastic.org/point.css">point.css</a>
+            <a href="https://chantastic.github.io/point.css">point.css</a>
           </li>
           <li>
-            <a href="https://chantastic.org/minions.css">minions.css</a>
+            <a href="https://chantastic.github.io/minions.css">minions.css</a>
           </li>
           <li>
-            <a href="https://chantastic.org/css4-to-css3">CSS4 to CSS3</a> (
+            <a href="https://chantastic.github.io/css4-to-css3">CSS4 to CSS3</a> (
             <a href="https://github.com/chantastic/css4-to-css3">source</a>)
           </li>
         </ul>
@@ -245,7 +245,7 @@ export default function() {
 
         <ul style={{ listStyleType: 'none' }}>
           <li>
-            <a href="https://chantastic.org/gear/drawing">drawing</a>
+            <a href="https://chantastic.github.io/gear/drawing">drawing</a>
           </li>
         </ul>
       </section>
