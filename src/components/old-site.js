@@ -53,27 +53,27 @@ export default function() {
 
         <ul style={{ listStyleType: 'none' }}>
           <li>
-            <a target="_blank" href="http://reactcheatsheet.com/">
+            <OutboundA href="http://reactcheatsheet.com/">
               React Cheat Sheet
-            </a>
+            </OutboundA>
           </li>
           <li>
-            <a target="_blank" href="http://reactpatterns.com/">
+            <OutboundA target="_blank" href="http://reactpatterns.com/">
               React Patterns
-            </a>
+            </OutboundA>
           </li>
           <li>
-            <a target="_blank" href="http://learnreact.com">
+            <OutboundA target="_blank" href="http://learnreact.com">
               Learn React
-            </a>
+            </OutboundA>
           </li>
           <li>
-            <a
+            <OutboundA
               target="_blank"
               href="https://github.com/chantastic/practical-bem"
             >
               Practical BEM
-            </a>
+            </OutboundA>
           </li>
         </ul>
       </section>
@@ -193,17 +193,17 @@ export default function() {
 
         <ul style={{ listStyleType: 'none' }}>
           <li>
-            <a href="https://chantastic.github.io/btn.css">btn.css</a>
+            <OutboundA href="https://chantastic.github.io/btn.css">btn.css</OutboundA>
           </li>
           <li>
-            <a href="https://chantastic.github.io/point.css">point.css</a>
+            <OutboundA href="https://chantastic.github.io/point.css">point.css</OutboundA>
           </li>
           <li>
-            <a href="https://chantastic.github.io/minions.css">minions.css</a>
+            <OutboundA href="https://chantastic.github.io/minions.css">minions.css</OutboundA>
           </li>
           <li>
-            <a href="https://chantastic.github.io/css4-to-css3">CSS4 to CSS3</a> (
-            <a href="https://github.com/chantastic/css4-to-css3">source</a>)
+            <OutboundA href="https://chantastic.github.io/css4-to-css3">CSS4 to CSS3</OutboundA> (
+            <OutboundA href="https://github.com/chantastic/css4-to-css3">source</OutboundA>)
           </li>
         </ul>
       </section>
@@ -245,7 +245,7 @@ export default function() {
 
         <ul style={{ listStyleType: 'none' }}>
           <li>
-            <a href="https://chantastic.github.io/gear/drawing">drawing</a>
+            <OutboundA href="https://chantastic.github.io/gear/drawing">drawing</OutboundA>
           </li>
         </ul>
       </section>
@@ -255,16 +255,19 @@ export default function() {
 
         <ul style={{ listStyleType: 'none' }}>
           <li>
-            <a href="https://twitter.com/chantastic">twitter</a>
+            <OutboundA href="https://tinyletter.com/chantastic">newsletter</OutboundA>
           </li>
           <li>
-            <a href="https://github.com/chantastic">github</a>
+            <OutboundA href="https://twitter.com/chantastic">twitter</OutboundA>
           </li>
           <li>
-            <a href="https://github.com/chantastic">instagram</a>
+            <OutboundA href="https://github.com/chantastic">github</OutboundA>
           </li>
           <li>
-            <a href="https://medium.com/@chantastic">medium</a>
+            <OutboundA href="https://github.com/chantastic">instagram</OutboundA>
+          </li>
+          <li>
+            <OutboundA href="https://medium.com/@chantastic">medium</OutboundA>
           </li>
         </ul>
       </section>
