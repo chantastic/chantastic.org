@@ -9,4 +9,5 @@ https://chantastic.netlify.com/* https://chantastic.org/:splat 301!
 /css4-to-css3 https://chantastic.github.io/css4-to-css3 301!
 
 # 302 (maybe these will be actual pages)
+/newsletter https://tinyletter.com/chantastic 302!
 /gear/drawing https://chantastic.github.io/gear/drawing 302!
