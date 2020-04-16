@@ -264,7 +264,7 @@ export default function() {
             <OutboundA href="https://github.com/chantastic">github</OutboundA>
           </li>
           <li>
-            <OutboundA href="https://github.com/chantastic">instagram</OutboundA>
+            <OutboundA href="https://www.instagram.com/chantastic">instagram</OutboundA>
           </li>
           <li>
             <OutboundA href="https://medium.com/@chantastic">medium</OutboundA>
